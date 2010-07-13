@@ -1,2 +1,5 @@
 *.log
 target/
+.project
+.settings
+.classpath
